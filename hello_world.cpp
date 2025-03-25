@@ -6,6 +6,6 @@ std::cout << "Hello world!";
 std::string name;
 std::cout << "Please enter username";
 std::cin >> name;
-// привет привет привет
+// привет привет lalalal
 std::cout << "Hello world from " << name;
 }
